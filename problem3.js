@@ -12,7 +12,7 @@ function checkDigitsInName(name) {
   return false;
 }
 console.log(checkDigitsInName("Raj123"));
-// console.log(checkDigitsInName("!@#"));
-// console.log(checkDigitsInName(["Raj"]));
-// console.log(checkDigitsInName("sumon11"));
+console.log(checkDigitsInName("suman"));
+console.log(checkDigitsInName("Name2024 "));
+console.log(checkDigitsInName("!@#"));
 console.log(checkDigitsInName(["Raj"]));
